@@ -1,0 +1,3 @@
+# trailbrief only needs the standard library.
+# requests is listed for anyone who prefers it over urllib, but nothing imports it.
+# (Kept dependency-free on purpose: this tool is meant to run anywhere.)
