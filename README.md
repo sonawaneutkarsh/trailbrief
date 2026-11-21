@@ -14,7 +14,7 @@ template engine produces a genuinely useful briefing offline.
 
 ```bash
 # 1. Clone and enter
-git clone <your-repo-url> trailbrief && cd trailbrief
+git clone https://github.com/sonawaneutkarsh/trailbrief && cd trailbrief
 
 # 2. (Optional) Install Ollama and pull Gemma for AI briefings
 #    https://ollama.com  →  ollama pull gemma3
